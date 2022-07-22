@@ -179,3 +179,7 @@ div > h3 {
 .cajita {
   margin-right: 30px;
 }
+
+.nombre {
+  font-family: "PT Mono", monospace;
+}
