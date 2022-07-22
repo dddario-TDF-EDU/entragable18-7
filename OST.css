@@ -44,6 +44,11 @@ h1 {
   color: #ffdcae;
 }
 
+h2 {
+  color: #ffdcae;
+  font-family: "PT Mono", monospace;
+}
+
 ul {
   list-style-type: none;
 }
